@@ -1,4 +1,4 @@
-## Hello, i'm Lee Hinze.
+## I'm Lee Hinze.
 ### I'm learning about every subject I can get my hands on.
 Specifically, I'm learning: 
 - Code (Frontend, Backend, Python)
