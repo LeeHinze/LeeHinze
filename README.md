@@ -18,6 +18,5 @@ Specifically, I'm learning:
 
 
 
-I make some projects.
 
 
